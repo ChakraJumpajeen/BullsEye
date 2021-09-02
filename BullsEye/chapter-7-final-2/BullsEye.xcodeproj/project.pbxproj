@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		76055AD926DCBA0700EBDE22 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76055AD826DCBA0700EBDE22 /* AppDelegate.swift */; };
-		76055ADB26DCBA0700EBDE22 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76055ADA26DCBA0700EBDE22 /* SceneDelegate.swift */; };
-		76055ADD26DCBA0700EBDE22 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76055ADC26DCBA0700EBDE22 /* ViewController.swift */; };
-		76055AE026DCBA0700EBDE22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76055ADE26DCBA0700EBDE22 /* Main.storyboard */; };
-		76055AE226DCBA0900EBDE22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76055AE126DCBA0900EBDE22 /* Assets.xcassets */; };
-		76055AE526DCBA0900EBDE22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76055AE326DCBA0900EBDE22 /* LaunchScreen.storyboard */; };
-		761A3F3E26E021EE009F1015 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761A3F3D26E021EE009F1015 /* AboutViewController.swift */; };
-		761A3F5E26E02A05009F1015 /* Bullseye.html in Resources */ = {isa = PBXBuildFile; fileRef = 761A3F5D26E02A05009F1015 /* Bullseye.html */; };
+		DD2059D724CC9CBC002CFB42 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2059D624CC9CBC002CFB42 /* AppDelegate.swift */; };
+		DD2059D924CC9CBC002CFB42 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2059D824CC9CBC002CFB42 /* SceneDelegate.swift */; };
+		DD2059DB24CC9CBC002CFB42 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2059DA24CC9CBC002CFB42 /* ViewController.swift */; };
+		DD2059DE24CC9CBC002CFB42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD2059DC24CC9CBC002CFB42 /* Main.storyboard */; };
+		DD2059E024CC9CBE002CFB42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD2059DF24CC9CBE002CFB42 /* Assets.xcassets */; };
+		DD2059E324CC9CBE002CFB42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD2059E124CC9CBE002CFB42 /* LaunchScreen.storyboard */; };
+		DDDA047524CF7EC400733066 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDA047424CF7EC400733066 /* AboutViewController.swift */; };
+		DDDA048E24CF87C400733066 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = DDDA048D24CF87C400733066 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		76055AD526DCBA0700EBDE22 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		76055AD826DCBA0700EBDE22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		76055ADA26DCBA0700EBDE22 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		76055ADC26DCBA0700EBDE22 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		76055ADF26DCBA0700EBDE22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		76055AE126DCBA0900EBDE22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		76055AE426DCBA0900EBDE22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		76055AE626DCBA0900EBDE22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		761A3F3D26E021EE009F1015 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
-		761A3F5D26E02A05009F1015 /* Bullseye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = Bullseye.html; path = ../../../../Downloads/Bullseye.html; sourceTree = "<group>"; };
+		DD2059D324CC9CBC002CFB42 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD2059D624CC9CBC002CFB42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DD2059D824CC9CBC002CFB42 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		DD2059DA24CC9CBC002CFB42 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DD2059DD24CC9CBC002CFB42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DD2059DF24CC9CBE002CFB42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DD2059E224CC9CBE002CFB42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DD2059E424CC9CBE002CFB42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDDA047424CF7EC400733066 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		DDDA048D24CF87C400733066 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		76055AD226DCBA0700EBDE22 /* Frameworks */ = {
+		DD2059D024CC9CBC002CFB42 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,34 +41,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		76055ACC26DCBA0700EBDE22 = {
+		DD2059CA24CC9CBC002CFB42 = {
 			isa = PBXGroup;
 			children = (
-				76055AD726DCBA0700EBDE22 /* BullsEye */,
-				76055AD626DCBA0700EBDE22 /* Products */,
+				DD2059D524CC9CBC002CFB42 /* BullsEye */,
+				DD2059D424CC9CBC002CFB42 /* Products */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
 		};
-		76055AD626DCBA0700EBDE22 /* Products */ = {
+		DD2059D424CC9CBC002CFB42 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				76055AD526DCBA0700EBDE22 /* BullsEye.app */,
+				DD2059D324CC9CBC002CFB42 /* BullsEye.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		76055AD726DCBA0700EBDE22 /* BullsEye */ = {
+		DD2059D524CC9CBC002CFB42 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
-				761A3F5D26E02A05009F1015 /* Bullseye.html */,
-				76055AD826DCBA0700EBDE22 /* AppDelegate.swift */,
-				76055ADA26DCBA0700EBDE22 /* SceneDelegate.swift */,
-				76055ADC26DCBA0700EBDE22 /* ViewController.swift */,
-				76055ADE26DCBA0700EBDE22 /* Main.storyboard */,
-				76055AE126DCBA0900EBDE22 /* Assets.xcassets */,
-				76055AE326DCBA0900EBDE22 /* LaunchScreen.storyboard */,
-				76055AE626DCBA0900EBDE22 /* Info.plist */,
-				761A3F3D26E021EE009F1015 /* AboutViewController.swift */,
+				DDDA048D24CF87C400733066 /* BullsEye.html */,
+				DD2059D624CC9CBC002CFB42 /* AppDelegate.swift */,
+				DD2059D824CC9CBC002CFB42 /* SceneDelegate.swift */,
+				DD2059DA24CC9CBC002CFB42 /* ViewController.swift */,
+				DDDA047424CF7EC400733066 /* AboutViewController.swift */,
+				DD2059DC24CC9CBC002CFB42 /* Main.storyboard */,
+				DD2059DF24CC9CBE002CFB42 /* Assets.xcassets */,
+				DD2059E124CC9CBE002CFB42 /* LaunchScreen.storyboard */,
+				DD2059E424CC9CBE002CFB42 /* Info.plist */,
 			);
 			path = BullsEye;
 			sourceTree = "<group>";
@@ -76,13 +79,14 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		76055AD426DCBA0700EBDE22 /* BullsEye */ = {
+		DD2059D224CC9CBC002CFB42 /* BullsEye */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 76055AE926DCBA0900EBDE22 /* Build configuration list for PBXNativeTarget "BullsEye" */;
+			buildConfigurationList = DD2059E724CC9CBE002CFB42 /* Build configuration list for PBXNativeTarget "BullsEye" */;
 			buildPhases = (
-				76055AD126DCBA0700EBDE22 /* Sources */,
-				76055AD226DCBA0700EBDE22 /* Frameworks */,
-				76055AD326DCBA0700EBDE22 /* Resources */,
+				DD2059EA24CCA74E002CFB42 /* SwiftLint */,
+				DD2059CF24CC9CBC002CFB42 /* Sources */,
+				DD2059D024CC9CBC002CFB42 /* Frameworks */,
+				DD2059D124CC9CBC002CFB42 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -90,24 +94,25 @@
 			);
 			name = BullsEye;
 			productName = BullsEye;
-			productReference = 76055AD526DCBA0700EBDE22 /* BullsEye.app */;
+			productReference = DD2059D324CC9CBC002CFB42 /* BullsEye.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		76055ACD26DCBA0700EBDE22 /* Project object */ = {
+		DD2059CB24CC9CBC002CFB42 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1250;
-				LastUpgradeCheck = 1250;
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				ORGANIZATIONNAME = Razeware;
 				TargetAttributes = {
-					76055AD426DCBA0700EBDE22 = {
-						CreatedOnToolsVersion = 12.5.1;
+					DD2059D224CC9CBC002CFB42 = {
+						CreatedOnToolsVersion = 12.0;
 					};
 				};
 			};
-			buildConfigurationList = 76055AD026DCBA0700EBDE22 /* Build configuration list for PBXProject "BullsEye" */;
+			buildConfigurationList = DD2059CE24CC9CBC002CFB42 /* Build configuration list for PBXProject "BullsEye" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,57 +120,78 @@
 				en,
 				Base,
 			);
-			mainGroup = 76055ACC26DCBA0700EBDE22;
-			productRefGroup = 76055AD626DCBA0700EBDE22 /* Products */;
+			mainGroup = DD2059CA24CC9CBC002CFB42;
+			productRefGroup = DD2059D424CC9CBC002CFB42 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				76055AD426DCBA0700EBDE22 /* BullsEye */,
+				DD2059D224CC9CBC002CFB42 /* BullsEye */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		76055AD326DCBA0700EBDE22 /* Resources */ = {
+		DD2059D124CC9CBC002CFB42 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76055AE526DCBA0900EBDE22 /* LaunchScreen.storyboard in Resources */,
-				761A3F5E26E02A05009F1015 /* Bullseye.html in Resources */,
-				76055AE226DCBA0900EBDE22 /* Assets.xcassets in Resources */,
-				76055AE026DCBA0700EBDE22 /* Main.storyboard in Resources */,
+				DD2059E324CC9CBE002CFB42 /* LaunchScreen.storyboard in Resources */,
+				DDDA048E24CF87C400733066 /* BullsEye.html in Resources */,
+				DD2059E024CC9CBE002CFB42 /* Assets.xcassets in Resources */,
+				DD2059DE24CC9CBC002CFB42 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		DD2059EA24CCA74E002CFB42 /* SwiftLint */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = SwiftLint;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [ -f ~/com.raywenderlich.swiftlint.yml ]; then\n  if which swiftlint >/dev/null; then\n    swiftlint --config ~/com.raywenderlich.swiftlint.yml\n  fi\nfi\n# Type a script or drag a script file from your workspace to insert its path.\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
-		76055AD126DCBA0700EBDE22 /* Sources */ = {
+		DD2059CF24CC9CBC002CFB42 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76055ADD26DCBA0700EBDE22 /* ViewController.swift in Sources */,
-				76055AD926DCBA0700EBDE22 /* AppDelegate.swift in Sources */,
-				761A3F3E26E021EE009F1015 /* AboutViewController.swift in Sources */,
-				76055ADB26DCBA0700EBDE22 /* SceneDelegate.swift in Sources */,
+				DD2059DB24CC9CBC002CFB42 /* ViewController.swift in Sources */,
+				DD2059D724CC9CBC002CFB42 /* AppDelegate.swift in Sources */,
+				DDDA047524CF7EC400733066 /* AboutViewController.swift in Sources */,
+				DD2059D924CC9CBC002CFB42 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		76055ADE26DCBA0700EBDE22 /* Main.storyboard */ = {
+		DD2059DC24CC9CBC002CFB42 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				76055ADF26DCBA0700EBDE22 /* Base */,
+				DD2059DD24CC9CBC002CFB42 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		76055AE326DCBA0900EBDE22 /* LaunchScreen.storyboard */ = {
+		DD2059E124CC9CBE002CFB42 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				76055AE426DCBA0900EBDE22 /* Base */,
+				DD2059E224CC9CBE002CFB42 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -173,7 +199,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		76055AE726DCBA0900EBDE22 /* Debug */ = {
+		DD2059E524CC9CBE002CFB42 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +250,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -234,7 +260,7 @@
 			};
 			name = Debug;
 		};
-		76055AE826DCBA0900EBDE22 /* Release */ = {
+		DD2059E624CC9CBE002CFB42 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -279,7 +305,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -289,38 +315,36 @@
 			};
 			name = Release;
 		};
-		76055AEA26DCBA0900EBDE22 /* Debug */ = {
+		DD2059E824CC9CBE002CFB42 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J7BHD2X77J;
 				INFOPLIST_FILE = BullsEye/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Chakra.BullsEye;
+				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.BullsEye;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		76055AEB26DCBA0900EBDE22 /* Release */ = {
+		DD2059E924CC9CBE002CFB42 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = J7BHD2X77J;
 				INFOPLIST_FILE = BullsEye/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = Chakra.BullsEye;
+				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.BullsEye;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -330,25 +354,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		76055AD026DCBA0700EBDE22 /* Build configuration list for PBXProject "BullsEye" */ = {
+		DD2059CE24CC9CBC002CFB42 /* Build configuration list for PBXProject "BullsEye" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76055AE726DCBA0900EBDE22 /* Debug */,
-				76055AE826DCBA0900EBDE22 /* Release */,
+				DD2059E524CC9CBE002CFB42 /* Debug */,
+				DD2059E624CC9CBE002CFB42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		76055AE926DCBA0900EBDE22 /* Build configuration list for PBXNativeTarget "BullsEye" */ = {
+		DD2059E724CC9CBE002CFB42 /* Build configuration list for PBXNativeTarget "BullsEye" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76055AEA26DCBA0900EBDE22 /* Debug */,
-				76055AEB26DCBA0900EBDE22 /* Release */,
+				DD2059E824CC9CBE002CFB42 /* Debug */,
+				DD2059E924CC9CBE002CFB42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 76055ACD26DCBA0700EBDE22 /* Project object */;
+	rootObject = DD2059CB24CC9CBC002CFB42 /* Project object */;
 }
